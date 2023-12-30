@@ -1,0 +1,713 @@
+[{
+  "_id": {
+    "$oid": "658707753d771b3e3db2fd08"
+  },
+  "imdbId": "tt3915174",
+  "title": "Puss in Boots: The Last Wish",
+  "releaseDate": "2022-12-21",
+  "trailerLink": "https://www.youtube.com/watch?v=tHb7WlgyaUc",
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w500/1NqwE6LP9IEdOZ57NCT51ftHtWT.jpg",
+  "backdrops": [
+    "https://image.tmdb.org/t/p/original/r9PkFnRUIthgBp2JZZzD380MWZy.jpg",
+    "https://image.tmdb.org/t/p/original/faXT8V80JRhnArTAeYXz0Eutpv9.jpg",
+    "https://image.tmdb.org/t/p/original/pdrlEaknhta2wvE2dcD8XDEbAI4.jpg",
+    "https://image.tmdb.org/t/p/original/tGwO4xcBjhXC0p5qlkw37TrH6S6.jpg",
+    "https://image.tmdb.org/t/p/original/cP8YNG3XUeBmO8Jk7Skzq3vwHy1.jpg",
+    "https://image.tmdb.org/t/p/original/qLE8yuieTDN93WNJRmFSAEJChOg.jpg",
+    "https://image.tmdb.org/t/p/original/vNuHqmOJRQXY0PBd887DklSDlBP.jpg",
+    "https://image.tmdb.org/t/p/original/uUCc62M0I3lpZy0SiydbBmUIpNi.jpg",
+    "https://image.tmdb.org/t/p/original/2wPJIFrBhzzAP8oHDOlShMkERH6.jpg",
+    "https://image.tmdb.org/t/p/original/fnfirCEDIkxZnQEtEMMSgllm0KZ.jpg"
+  ],
+  "reviewIds": [
+    {
+      "$oid": "65881d9a819cc42b0ddc8801"
+    },
+    {
+      "$oid": "658df110835cf9723443d636"
+    },
+    {
+      "$oid": "658df17e835cf9723443d637"
+    },
+    {
+      "$oid": "658df1eb835cf9723443d63b"
+    },
+    {
+      "$oid": "658df21b835cf9723443d63c"
+    },
+    {
+      "$oid": "658df47d835cf9723443d63e"
+    },
+    {
+      "$oid": "658df47f835cf9723443d63f"
+    },
+    {
+      "$oid": "658df47f835cf9723443d640"
+    },
+    {
+      "$oid": "658df480835cf9723443d641"
+    },
+    {
+      "$oid": "658df480835cf9723443d642"
+    },
+    {
+      "$oid": "658df480835cf9723443d643"
+    },
+    {
+      "$oid": "658df481835cf9723443d644"
+    },
+    {
+      "$oid": "658df481835cf9723443d645"
+    },
+    {
+      "$oid": "658df4ad835cf9723443d64a"
+    },
+    {
+      "$oid": "658df4d5835cf9723443d64b"
+    },
+    {
+      "$oid": "658df4da835cf9723443d64c"
+    },
+    {
+      "$oid": "658df4db835cf9723443d64d"
+    },
+    {
+      "$oid": "658df5be835cf9723443d64e"
+    },
+    {
+      "$oid": "658df621835cf9723443d64f"
+    },
+    {
+      "$oid": "658df623835cf9723443d650"
+    },
+    {
+      "$oid": "658df627835cf9723443d651"
+    },
+    {
+      "$oid": "658df63c835cf9723443d652"
+    },
+    {
+      "$oid": "658df64d835cf9723443d653"
+    },
+    {
+      "$oid": "658df64d835cf9723443d654"
+    },
+    {
+      "$oid": "658df64d835cf9723443d655"
+    },
+    {
+      "$oid": "658df6ae835cf9723443d656"
+    },
+    {
+      "$oid": "658df6ae835cf9723443d657"
+    },
+    {
+      "$oid": "658df6ae835cf9723443d658"
+    },
+    {
+      "$oid": "658df73b835cf9723443d659"
+    },
+    {
+      "$oid": "658df73f835cf9723443d65a"
+    },
+    {
+      "$oid": "658df741835cf9723443d65b"
+    },
+    {
+      "$oid": "658df741835cf9723443d65c"
+    },
+    {
+      "$oid": "658df741835cf9723443d65d"
+    },
+    {
+      "$oid": "658df742835cf9723443d65e"
+    },
+    {
+      "$oid": "658df742835cf9723443d65f"
+    },
+    {
+      "$oid": "658df822835cf9723443d660"
+    },
+    {
+      "$oid": "658df824835cf9723443d661"
+    },
+    {
+      "$oid": "658df82b835cf9723443d662"
+    },
+    {
+      "$oid": "658df856835cf9723443d663"
+    },
+    {
+      "$oid": "658df85c835cf9723443d664"
+    },
+    {
+      "$oid": "658df85e835cf9723443d665"
+    },
+    {
+      "$oid": "658df85e835cf9723443d666"
+    },
+    {
+      "$oid": "658df866835cf9723443d667"
+    },
+    {
+      "$oid": "658df9d5835cf9723443d673"
+    },
+    {
+      "$oid": "658df9e3835cf9723443d674"
+    },
+    {
+      "$oid": "658e7fa44b440c2685109200"
+    },
+    {
+      "$oid": "658e82644b440c2685109207"
+    },
+    {
+      "$oid": "658e82904b440c2685109208"
+    },
+    {
+      "$oid": "658e82a44b440c2685109209"
+    },
+    {
+      "$oid": "658e834d4b440c268510920a"
+    },
+    {
+      "$oid": "658e859b4b440c268510920b"
+    },
+    {
+      "$oid": "658e85a94b440c268510920c"
+    },
+    {
+      "$oid": "658e85ad4b440c268510920d"
+    },
+    {
+      "$oid": "658e86874b440c268510920e"
+    },
+    {
+      "$oid": "658e87344b440c268510920f"
+    },
+    {
+      "$oid": "658e888b4b440c2685109210"
+    },
+    {
+      "$oid": "658e8a044b440c2685109211"
+    },
+    {
+      "$oid": "658e8a084b440c2685109212"
+    },
+    {
+      "$oid": "658e8a164b440c2685109213"
+    },
+    {
+      "$oid": "658e8a6b4b440c2685109214"
+    },
+    {
+      "$oid": "658e8a6e4b440c2685109215"
+    },
+    {
+      "$oid": "658e8a6f4b440c2685109216"
+    },
+    {
+      "$oid": "658e8a704b440c2685109217"
+    },
+    {
+      "$oid": "658e8a7e4b440c2685109218"
+    },
+    {
+      "$oid": "658e8b054b440c2685109219"
+    },
+    {
+      "$oid": "658e8be84b440c268510921a"
+    },
+    {
+      "$oid": "658e8c134b440c268510921b"
+    },
+    {
+      "$oid": "658e8c314b440c268510921c"
+    },
+    {
+      "$oid": "658e8cf94b440c268510921d"
+    },
+    {
+      "$oid": "658e8e0e4b440c268510921f"
+    },
+    {
+      "$oid": "658e8e244b440c2685109220"
+    },
+    {
+      "$oid": "658e9005e8ce6a217b4c3402"
+    },
+    {
+      "$oid": "658e9011e8ce6a217b4c3403"
+    },
+    {
+      "$oid": "658e902ce8ce6a217b4c3404"
+    },
+    {
+      "$oid": "658e9084954a6277187e6f8f"
+    },
+    {
+      "$oid": "658e908f954a6277187e6f90"
+    },
+    {
+      "$oid": "658e95f40d0fbb420b47fc75"
+    },
+    {
+      "_id": {
+        "$oid": "658e974746df7220a491b32d"
+      },
+      "body": "esrt",
+      "_class": "com.example.movies.Review"
+    },
+    {
+      "$oid": "658e9a57b80c5a257bf315f3"
+    },
+    {
+      "$oid": "658e9a5ab80c5a257bf315f4"
+    },
+    {
+      "$oid": "658e9a71b80c5a257bf315f5"
+    },
+    {
+      "$oid": "658e9b04b80c5a257bf315f6"
+    },
+    {
+      "$oid": "658e9d73b80c5a257bf315f7"
+    },
+    {
+      "$oid": "658ea3b9430ea85e65020153"
+    },
+    {
+      "$oid": "658ebe45435e95575550bafc"
+    },
+    {
+      "$oid": "658ee1a877089b643145f37d"
+    },
+    {
+      "$oid": "658eeb65cd193947e9487438"
+    },
+    {
+      "$oid": "658eeb77cd193947e9487439"
+    },
+    {
+      "$oid": "658eecca4c451f74817bf834"
+    },
+    {
+      "$oid": "658eef544c451f74817bf835"
+    },
+    {
+      "$oid": "659002ac3fb21d72f24682a2"
+    },
+    {
+      "$oid": "659008fc3fb21d72f24682a3"
+    },
+    {
+      "$oid": "65900da83fb21d72f24682a4"
+    },
+    {
+      "$oid": "65900ddc3fb21d72f24682a5"
+    },
+    {
+      "$oid": "65900de73fb21d72f24682a6"
+    }
+  ],
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "658e7eded94177712f218176"
+      },
+      "body": "I really enjoyed the movie with my family test3",
+      "_class": "com.example.movies.Review"
+    },
+    {
+      "_id": {
+        "$oid": "658e7f17d94177712f218177"
+      },
+      "body": "TESTETSTEST",
+      "_class": "com.example.movies.Review"
+    },
+    {
+      "_id": {
+        "$oid": "658e7f71d94177712f218178"
+      },
+      "body": "NIE DZIAŁA",
+      "_class": "com.example.movies.Review"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "658707753d771b3e3db2fd09"
+  },
+  "imdbId": "tt1630029",
+  "title": "Avatar: The Way of Water",
+  "releaseDate": "2022-12-16",
+  "trailerLink": "https://www.youtube.com/watch?v=d9MyW72ELq0",
+  "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+  "backdrops": [
+    "https://image.tmdb.org/t/p/original/s16H6tpK2utvwDtzZ8Qy4qm5Emw.jpg",
+    "https://image.tmdb.org/t/p/original/evaFLqtswezLosllRZtJNMiO1UR.jpg",
+    "https://image.tmdb.org/t/p/original/198vrF8k7mfQ4FjDJsBmdQcaiyq.jpg",
+    "https://image.tmdb.org/t/p/original/zaapQ1zjKe2BGhhowh5pM251Gpl.jpg",
+    "https://image.tmdb.org/t/p/original/tQ91wWQJ2WRNDXwxuO7GCXX5VPC.jpg",
+    "https://image.tmdb.org/t/p/original/5gPQKfFJnl8d1edbkOzKONo4mnr.jpg",
+    "https://image.tmdb.org/t/p/original/2fS9cpar9rzxixwnRptg4bGmIym.jpg",
+    "https://image.tmdb.org/t/p/original/fkGR1ltNbvERk3topo4dP3gWsvR.jpg",
+    "https://image.tmdb.org/t/p/original/rb9IHprKNoSKqatP2vr25unUDSu.jpg",
+    "https://image.tmdb.org/t/p/original/37ZswIuRQcRBN7kHij5MBjzRMRt.jpg"
+  ],
+  "reviewIds": [
+    {
+      "$oid": "658e80a34b440c2685109203"
+    },
+    {
+      "$oid": "658e810f4b440c2685109204"
+    },
+    {
+      "$oid": "658e81b94b440c2685109205"
+    },
+    {
+      "$oid": "658e81bb4b440c2685109206"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "658707753d771b3e3db2fd0a"
+  },
+  "imdbId": "tt8760708",
+  "title": "M3GAN",
+  "releaseDate": "2023-01-06",
+  "trailerLink": "https://www.youtube.com/watch?v=BRb4U99OU80",
+  "genres": [
+    "Science Fiction",
+    "Horror",
+    "Comedy"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w500/xBl5AGw7HXZcv1nNXPlzGgO4Cfo.jpg",
+  "backdrops": [
+    "https://image.tmdb.org/t/p/original/5kAGbi9MFAobQTVfK4kWPnIfnP0.jpg",
+    "https://image.tmdb.org/t/p/original/dlxzUj7z1MqEcFiwvvrj0bvBKDY.jpg",
+    "https://image.tmdb.org/t/p/original/q2fY4kMXKoGv4CQf310MCxpXlRI.jpg",
+    "https://image.tmdb.org/t/p/original/pTxwFdsdDWzpCRYuk1QbggdaOlL.jpg",
+    "https://image.tmdb.org/t/p/original/1zuz2RgFoOjulkjjNHHFc3WiHGB.jpg",
+    "https://image.tmdb.org/t/p/original/7HqxI1IXMloT9VTSuDC8ikaj810.jpg",
+    "https://image.tmdb.org/t/p/original/vpK2rp3J5LiC01HoNM0j9DEHQ1T.jpg",
+    "https://image.tmdb.org/t/p/original/cNHXdmr4amP6EPCMa0dqD8rwzDV.jpg",
+    "https://image.tmdb.org/t/p/original/txQLFd6rfQrskQhFENkS1jElptt.jpg",
+    "https://image.tmdb.org/t/p/original/dC4tj1ONdlZ2TWv4XD2SA1KUnJN.jpg"
+  ],
+  "reviewIds": [
+    {
+      "$oid": "658df1e3835cf9723443d639"
+    },
+    {
+      "$oid": "658df1e6835cf9723443d63a"
+    },
+    {
+      "$oid": "65900dfd3fb21d72f24682a7"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "658707753d771b3e3db2fd0b"
+  },
+  "imdbId": "tt11116912",
+  "title": "Troll",
+  "releaseDate": "2022-12-01",
+  "trailerLink": "https://www.youtube.com/watch?v=AiohkY_XQYQ",
+  "genres": [
+    "Fantasy",
+    "Action",
+    "Adventure"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w500/9z4jRr43JdtU66P0iy8h18OyLql.jpg",
+  "backdrops": [
+    "https://image.tmdb.org/t/p/original/53BC9F2tpZnsGno2cLhzvGprDYS.jpg",
+    "https://image.tmdb.org/t/p/original/e9Qb2kmBnMXHCmNMI8NX1JbWhh1.jpg",
+    "https://image.tmdb.org/t/p/original/2WjOOOGUu6dp4r8VqR5n48DY7JG.jpg",
+    "https://image.tmdb.org/t/p/original/duIsyybgrC4S8kcCIVaxNOttV15.jpg",
+    "https://image.tmdb.org/t/p/original/3RS8runn9AfrYDzRVPWuGPmvXQf.jpg",
+    "https://image.tmdb.org/t/p/original/8wLRn2VvBlCu6cqYS4ypipnwosr.jpg",
+    "https://image.tmdb.org/t/p/original/zDqVVkmfvj47FBUE5lwE4rWnITu.jpg",
+    "https://image.tmdb.org/t/p/original/682Ui5DwZDdbIPzKAEOR7cJlMXa.jpg",
+    "https://image.tmdb.org/t/p/original/6jdlppcnGi3XuJamfs4Vl7HyxB.jpg",
+    "https://image.tmdb.org/t/p/original/uIq83ogs7QBEWi1aqmUrdDIH61m.jpg"
+  ],
+  "reviewIds": [
+    {
+      "$oid": "658df494835cf9723443d646"
+    },
+    {
+      "$oid": "658df494835cf9723443d647"
+    },
+    {
+      "$oid": "658df494835cf9723443d648"
+    },
+    {
+      "$oid": "658df495835cf9723443d649"
+    },
+    {
+      "$oid": "658df92f835cf9723443d668"
+    },
+    {
+      "$oid": "658df932835cf9723443d669"
+    },
+    {
+      "$oid": "658df932835cf9723443d66a"
+    },
+    {
+      "$oid": "658df932835cf9723443d66b"
+    },
+    {
+      "$oid": "658df933835cf9723443d66c"
+    },
+    {
+      "$oid": "658df933835cf9723443d66d"
+    },
+    {
+      "$oid": "658df933835cf9723443d66e"
+    },
+    {
+      "$oid": "658df933835cf9723443d66f"
+    },
+    {
+      "$oid": "658df933835cf9723443d670"
+    },
+    {
+      "$oid": "658df933835cf9723443d671"
+    },
+    {
+      "$oid": "658ea3cb430ea85e65020154"
+    },
+    {
+      "$oid": "658ea3ea430ea85e65020156"
+    },
+    {
+      "$oid": "658ea3ed430ea85e65020157"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "658707753d771b3e3db2fd0c"
+  },
+  "imdbId": "tt6443346",
+  "title": "Black Adam",
+  "releaseDate": "2022-10-19",
+  "trailerLink": "https://www.youtube.com/watch?v=JaV7mmc9HGw",
+  "genres": [
+    "Fantasy",
+    "Action",
+    "Science Fiction"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w500/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg",
+  "backdrops": [
+    "https://image.tmdb.org/t/p/original/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg",
+    "https://image.tmdb.org/t/p/original/9hNtTwY8P5v2MKnUeb7iuREI7Yb.jpg",
+    "https://image.tmdb.org/t/p/original/zplntIhzXyBiXFYWReETxh0uyFF.jpg",
+    "https://image.tmdb.org/t/p/original/yxkhM18dYwsRRffLnd9lz2d4i0v.jpg",
+    "https://image.tmdb.org/t/p/original/bgaBKREAfUtZgvd6zoV6RQRcIUt.jpg",
+    "https://image.tmdb.org/t/p/original/uqYxoj4hqwocwfBs2xxGyQT88Yk.jpg",
+    "https://image.tmdb.org/t/p/original/qBx97wytqlyPqXATHqRgIVFxJRU.jpg",
+    "https://image.tmdb.org/t/p/original/d6MhreFdMHONqX3iZlJGCF8UkIt.jpg",
+    "https://image.tmdb.org/t/p/original/9inNotReApz0n50WvWbrt0n1cbL.jpg",
+    "https://image.tmdb.org/t/p/original/pSOuqtJmdh7aI1yiK7M8e0PmbPC.jpg"
+  ],
+  "reviewIds": [
+    {
+      "$oid": "658e8d0c4b440c268510921e"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "658707753d771b3e3db2fd0d"
+  },
+  "imdbId": "tt0499549",
+  "title": "Avatar",
+  "releaseDate": "2009-12-15",
+  "trailerLink": "https://www.youtube.com/watch?v=5PSNL1qE6VY",
+  "genres": [
+    "Fantasy",
+    "Action",
+    "Science Fiction",
+    "Adventure"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w500/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",
+  "backdrops": [
+    "https://image.tmdb.org/t/p/original/o0s4XsEDfDlvit5pDRKjzXR4pp2.jpg",
+    "https://image.tmdb.org/t/p/original/8I37NtDffNV7AZlDa7uDvvqhovU.jpg",
+    "https://image.tmdb.org/t/p/original/2YLOjUiczXEgVZFDSIeH3iWB3Ub.jpg",
+    "https://image.tmdb.org/t/p/original/Yc9q6QuWrMp9nuDm5R8ExNqbEq.jpg",
+    "https://image.tmdb.org/t/p/original/jlQJDD0L5ZojjlS0KYnApdO0n19.jpg",
+    "https://image.tmdb.org/t/p/original/sfw4m2tOgQRzhF6VXxaXGfd1vX.jpg",
+    "https://image.tmdb.org/t/p/original/7ABsaBkO1jA2psC8Hy4IDhkID4h.jpg",
+    "https://image.tmdb.org/t/p/original/xMMrBziwJqrgjerqpNeQvwuwiUp.jpg",
+    "https://image.tmdb.org/t/p/original/chauy3iJaZtrMbTr72rgNmOZwo3.jpg",
+    "https://image.tmdb.org/t/p/original/mYJkJ7YxJsUNI1nAOOUOpRN2auC.jpg"
+  ],
+  "reviewIds": [
+    {
+      "$oid": "658df9d1835cf9723443d672"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "658707753d771b3e3db2fd0e"
+  },
+  "imdbId": "tt3447590",
+  "title": "Roald Dahl's Matilda the Musical",
+  "releaseDate": "2022-11-25",
+  "trailerLink": "https://www.youtube.com/watch?v=lroAhsDr2vI",
+  "genres": [
+    "Fantasy",
+    "Family",
+    "Comedy"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w500/ga8R3OiOMMgSvZ4cOj8x7prUNYZ.jpg",
+  "backdrops": [
+    "https://image.tmdb.org/t/p/original/nWs0auTqn2UaFGfTKtUE5tlTeBu.jpg",
+    "https://image.tmdb.org/t/p/original/bPftMelR4N3jUg2LTlEblFz0gWk.jpg",
+    "https://image.tmdb.org/t/p/original/u2MLMkGEjJGQDs17Vmoej1RYFph.jpg",
+    "https://image.tmdb.org/t/p/original/jG52tsazn04F1fe8hPZfVv7ICKt.jpg",
+    "https://image.tmdb.org/t/p/original/4INEI7t7Vcg0cFvze7UIgwYCeSG.jpg",
+    "https://image.tmdb.org/t/p/original/krAu6znzW8c54NdJPneNi4bem1l.jpg",
+    "https://image.tmdb.org/t/p/original/6TUMppDMrYA4gzoaDUbbSnZFlxW.jpg",
+    "https://image.tmdb.org/t/p/original/hacV1h1SWrPlrerF3xpetvEdqT.jpg",
+    "https://image.tmdb.org/t/p/original/7iXsB1r9IK17ZFShqoxcHKQ7dLp.jpg",
+    "https://image.tmdb.org/t/p/original/dwiRYDLcFyDOkgkSc1JFtTr6Kdk.jpg"
+  ],
+  "reviewIds": [
+    {
+      "$oid": "658df47a835cf9723443d63d"
+    },
+    {
+      "$oid": "658e7d2c7d65ea20f405171d"
+    },
+    {
+      "$oid": "658e7d2e7d65ea20f405171e"
+    },
+    {
+      "$oid": "658e800c4b440c2685109201"
+    },
+    {
+      "$oid": "658e80964b440c2685109202"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "658707753d771b3e3db2fd0f"
+  },
+  "imdbId": "tt9114286",
+  "title": "Black Panther: Wakanda Forever",
+  "releaseDate": "2022-11-11",
+  "trailerLink": "https://www.youtube.com/watch?v=_Z3QKkl1WyM",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w500/cryEN3sWlgB2wTzcUNVtDGI8bkM.jpg",
+  "backdrops": [
+    "https://image.tmdb.org/t/p/original/yYrvN5WFeGYjJnRzhY0QXuo4Isw.jpg",
+    "https://image.tmdb.org/t/p/original/xDMIl84Qo5Tsu62c9DGWhmPI67A.jpg",
+    "https://image.tmdb.org/t/p/original/cs3LpA38BS2XDPfUzdgMB537XOo.jpg",
+    "https://image.tmdb.org/t/p/original/6SGMzCsaU094Mt32IHGkIYtIl06.jpg",
+    "https://image.tmdb.org/t/p/original/bty0TwJGsxMqYRptgyzn28Cxq5y.jpg",
+    "https://image.tmdb.org/t/p/original/h2jp3CSdTPc22mUqps9I8vXDPaN.jpg",
+    "https://image.tmdb.org/t/p/original/fSfWloWi5rmqbmC7GhO0HY2TMZW.jpg",
+    "https://image.tmdb.org/t/p/original/vZujZnmkYB5nGUC5d5llK9DbGLk.jpg",
+    "https://image.tmdb.org/t/p/original/8sMmAmN2x7mBiNKEX2o0aOTozEB.jpg",
+    "https://image.tmdb.org/t/p/original/geI3Mk7nehX1kvyIY3K5ajaiNfI.jpg"
+  ],
+  "reviewIds": [
+    {
+      "$oid": "658ea3d4430ea85e65020155"
+    },
+    {
+      "$oid": "658ee76ed2ce7e02187ea9d8"
+    },
+    {
+      "$oid": "658f01b04c451f74817bf836"
+    },
+    {
+      "$oid": "658f4371298a2033e696d1d1"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "658707753d771b3e3db2fd10"
+  },
+  "imdbId": "tt10298840",
+  "title": "Strange World",
+  "releaseDate": "2022-11-23",
+  "trailerLink": "https://www.youtube.com/watch?v=bKh2G73gCCs",
+  "genres": [
+    "Family",
+    "Adventure",
+    "Science Fiction",
+    "Animation"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w500/kgJ8bX3zDQDM2Idkleis28XSVnu.jpg",
+  "backdrops": [
+    "https://image.tmdb.org/t/p/original/5wDBVictj4wUYZ31gR5WzCM9dLD.jpg",
+    "https://image.tmdb.org/t/p/original/zNIlXd7CAz0hHAInbs2nsFRc0xQ.jpg",
+    "https://image.tmdb.org/t/p/original/1rukJHAP5p6DNHe75Oo1D0m3SnR.jpg",
+    "https://image.tmdb.org/t/p/original/aKbe411WyjTZy1OZUVIdNDYVf21.jpg",
+    "https://image.tmdb.org/t/p/original/9RKvxz0IryD2ofLYyGpnE7HeWlR.jpg",
+    "https://image.tmdb.org/t/p/original/kFURsDklj7QGMMkGJVwDBaJJn05.jpg",
+    "https://image.tmdb.org/t/p/original/v6oBDkd7ogXzTQxIU0H5SXq0hOL.jpg",
+    "https://image.tmdb.org/t/p/original/fBshLiEJcjdfrU3qQBIINcePSsm.jpg",
+    "https://image.tmdb.org/t/p/original/3oie0kID8SNCjkqN6Raweg5dJa.jpg",
+    "https://image.tmdb.org/t/p/original/zgFldVKON1Nxp8ui7HVABGKDQKM.jpg"
+  ],
+  "reviewIds": [
+    {
+      "$oid": "658df1ad835cf9723443d638"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "658707753d771b3e3db2fd11"
+  },
+  "imdbId": "tt8093700",
+  "title": "The Woman King",
+  "releaseDate": "2022-09-15",
+  "trailerLink": "https://www.youtube.com/watch?v=3RDaPV_rJ1Y",
+  "genres": [
+    "Action",
+    "Drama",
+    "History"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w500/5O1GLla5vNuegqNxNhKL1OKE1lO.jpg",
+  "backdrops": [
+    "https://image.tmdb.org/t/p/original/gkseI3CUfQtMKX41XD4AxDzhQb7.jpg",
+    "https://image.tmdb.org/t/p/original/wSILunFEbvw00Ql2aaMHCSZf3cI.jpg",
+    "https://image.tmdb.org/t/p/original/xTsERrOCW15OIYl5aPX7Jbj38wu.jpg",
+    "https://image.tmdb.org/t/p/original/j06sSrtbqnZdSgG6yEduao95y48.jpg",
+    "https://image.tmdb.org/t/p/original/v4YV4ne1nwNni35iz4WmpZRZpCD.jpg",
+    "https://image.tmdb.org/t/p/original/6n5ln1vWGD3JyT6Ibt7ZxjSxY3v.jpg",
+    "https://image.tmdb.org/t/p/original/gi47WUUYVQWaLE5mJraS87ycdy6.jpg",
+    "https://image.tmdb.org/t/p/original/dTQOU5a32K3UPTIXHgipEqN41OM.jpg",
+    "https://image.tmdb.org/t/p/original/7zQJYV02yehWrQN6NjKsBorqUUS.jpg",
+    "https://image.tmdb.org/t/p/original/rdDL4y7BxGyXFEDJgAG4lz89bG2.jpg"
+  ],
+  "reviewIds": []
+}]

@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "658f4371298a2033e696d1d1"
+  },
+  "reviewId": "c20c58e7-f29f-4802-bd2e-d1366a6dec36",
+  "body": "I really enjoyed the movie with my family UPDATE",
+  "_class": "com.example.movies.Review"
+},
+{
+  "_id": {
+    "$oid": "65900ddc3fb21d72f24682a5"
+  },
+  "reviewId": "da4b15c4-88c5-45cb-a45f-fe64c70ce44b",
+  "body": "Great!",
+  "_class": "com.example.movies.Review"
+},
+{
+  "_id": {
+    "$oid": "65900de73fb21d72f24682a6"
+  },
+  "reviewId": "15c89280-d7ea-444d-bd02-7d1e08bbf74f",
+  "body": "Nice movie",
+  "_class": "com.example.movies.Review"
+},
+{
+  "_id": {
+    "$oid": "65900dfd3fb21d72f24682a7"
+  },
+  "reviewId": "6daed4a8-b80e-4311-9b68-923d662881d2",
+  "body": "Im afraid movie like this\n",
+  "_class": "com.example.movies.Review"
+}]
